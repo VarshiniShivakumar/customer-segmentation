@@ -15,8 +15,6 @@ Businesses often:
 - Cannot identify high-value customers  
 - Waste marketing resources  
 
-This project solves this by grouping customers using clustering techniques. :contentReference[oaicite:1]{index=1}
-
 ## Proposed Solution
 The system:
 - Takes customer data (income, spending, etc.)
@@ -59,7 +57,29 @@ Typical features include:
 ## Expected Output
 - Customers grouped into clusters  
 - Visual graphs showing segmentation  
-- Business insights for each group  
+- Business insights for each group
+
+## Output Screenshots
+
+### Dataset Preview
+![Dataset](outputs/dataset_preview.png)
+
+### Data Preprocessing
+![Preprocessing](outputs/data_preprocessing.png)
+
+### Elbow Method
+![Elbow](outputs/elbow_method.png)
+
+### Customer Clusters
+![Clusters](outputs/clusters.png)
+
+### Clustered Data Output
+![Output](outputs/cluster_output.png)
+
+### Cluster Summary
+![Summary](outputs/cluster_summary.png)
+
+These outputs demonstrate how customers are grouped into different segments using K-Means clustering and how meaningful insights can be derived from the data.
 
 ## Advantages
 - Better customer understanding  
