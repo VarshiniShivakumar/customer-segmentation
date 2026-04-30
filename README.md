@@ -70,7 +70,7 @@ Typical features include:
 ### Elbow Method
 ![Elbow](outputs/elbow_method.png)
 
-### 📈 Customer Clusters
+### Customer Clusters
 ![Clusters](outputs/clusters.png)
 
 ### Clustered Data Output
