@@ -62,22 +62,22 @@ Typical features include:
 ## Output Screenshots
 
 ### Dataset Preview
-![Dataset](outputs/dataset_preview.png)
+![Dataset](outputs/Datasetpreview.png)
 
 ### Data Preprocessing
-![Preprocessing](outputs/data_preprocessing.png)
+![Preprocessing](outputs/Categoricalconversion.png)
 
 ### Elbow Method
-![Elbow](outputs/elbow_method.png)
+![Elbow](outputs/Elbowmethod.png)
 
 ### Customer Clusters
-![Clusters](outputs/clusters.png)
+![Clusters](outputs/Clustervisualization.png)
 
 ### Clustered Data Output
-![Output](outputs/cluster_output.png)
+![Output](outputs/Clustereddatasetoutput.png)
 
 ### Cluster Summary
-![Summary](outputs/cluster_summary.png)
+![Summary](outputs/Clustersummary.png)
 
 These outputs demonstrate how customers are grouped into different segments using K-Means clustering and how meaningful insights can be derived from the data.
 
